@@ -7,7 +7,7 @@ Pod::Spec.new do |s|
   s.license      = 'MIT'
   s.author             = { 'ruozi' => 'wizardfan88@gmail.com' }
   s.ios.deployment_target = '8.0'
-  s.source       = { :git => 'git@github.com:948080952/ZFRewardVideoManager.git', :tag => s.version}
+  s.source       = { :git => 'https://github.com/ruozi/ZFRewardVideoManager.git', :tag => s.version}
 
   s.default_subspec = 'Core'
 
